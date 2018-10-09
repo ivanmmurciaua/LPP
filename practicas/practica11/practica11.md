@@ -214,6 +214,4 @@ definidas en el ejercicio cumplan el protocolo `Equatable`.
 ----
 
 Lenguajes y Paradigmas de Programación, curso 2017-18  
-© Departamento Ciencia de la Computación e Inteligencia Artificial, Universidad de Alicante  
-Domingo Gallardo, Cristina Pomares, Antonio Botía, Francisco Martínez
-
+© Departamento Ciencia de la Computación e Inteligencia Artificial, Universidad de Alicante
