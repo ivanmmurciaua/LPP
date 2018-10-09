@@ -572,3 +572,4 @@ class CalesaAutomatica: Calesa {
 let automatico = CalesaAutomatica()
 automatico.velocidadActual = 100.0
 print("CalesaAutomatica: \(automatico.descripcion)")
+//print("CalesaAutomatica: \(automatico)")
