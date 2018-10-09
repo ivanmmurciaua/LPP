@@ -358,5 +358,4 @@ Sucede lo siguiente:
 ----
 
 Lenguajes y Paradigmas de Programación, curso 2015-16  
-© Departamento Ciencia de la Computación e Inteligencia Artificial, Universidad de Alicante  
-Domingo Gallardo, Cristina Pomares
+© Departamento Ciencia de la Computación e Inteligencia Artificial, Universidad de Alicante
