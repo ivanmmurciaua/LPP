@@ -161,7 +161,7 @@ Supongamos las definiciones
     (* x x))
 ```
 
-Realiza la evaluación paso a paso de la siguiente expresión 
+Realiza la evaluación paso a paso de la siguiente expresión: 
 
 ```scheme
 (f (cuadrado (+ 2 1)) (+ 1 1))
