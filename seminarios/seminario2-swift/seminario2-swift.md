@@ -1,7 +1,7 @@
 # Seminario 2: Seminario de Swift
 
 Lenguajes y Paradigmas de Programación, curso 2017-18  
-Departamento Ciencia de la Computación e Inteligencia Artificial, Universidad de Alicante  
+Departamento Ciencia de la Computación e Inteligencia Artificial, Universidad de Alicante.
 
 ## Contenidos
 
