@@ -25,7 +25,7 @@ Para la implementación debes usar la función `mayor` definida en la
 práctica anterior.
 
 **Pista**: Podemos expresar el caso general de la recursión de la
-siguiente forma:
+siguiente forma
 
 > El máximo de los elementos de una lista es el mayor entre
 > el primer elemento de la lista y el máximo del resto de la lista.
